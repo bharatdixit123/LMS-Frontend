@@ -1,0 +1,17 @@
+.status-filter{
+    margin-bottom: 15px;
+    display: flex;
+    align-items: center;
+    gap: 8px;
+}
+
+.status-filter label{
+    font-weight: 500;
+}
+
+.status-filter select{
+    padding: 5px 8px;
+    border-radius: 4px;
+    border: 1px solid #ccc;
+    cursor: pointer;
+}
